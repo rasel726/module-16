@@ -13,6 +13,7 @@ var person = "kamrul islam";
 var location = "vatara dhaka";
 var special = 'father';
 
+// boolean
 var serious = true;
 var isFullmarks = true;
 var is isSingle = false;
