@@ -20,3 +20,7 @@ var club25 = 2025;
 var user-name = "raj bappa";
 
 var user_name = "bappa raj";
+var homeaddress = "phulbari kurigram";
+var home_address = "phulbari kurigram";
+var homeAddress = "phulbari kurigram"; //camel case : we will use this one
+var HomeAddress = "phulbari kurigram"; //pascel case
