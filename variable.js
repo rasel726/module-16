@@ -16,5 +16,5 @@ var special = 'father';
 // boolean
 var serious = true;
 var isFullmarks = true;
-var is isSingle = false;
+var isSingle = false;
 
